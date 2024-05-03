@@ -4,6 +4,78 @@
         "mimeType": "image/x-mkcd-f4",
         "tilemapTile": true
     },
+    "tile1": {
+        "data": "hwQQABAAAAC8Hd0d3R3dHbwd3R0REd0dvB3dHd0d3R28Hd0d3R3dHbwd3R3dHd0dvB0REd0dERG8Hd0d3R3dHbwd3R3dHd0dvB3dHd0d3R28Hd0dERHdHbwd3R3dHd0dvB3dHd0d3R28Hd0d3R3dHbwdERHdHRERvB3dHd0d3R28Hd0d3R3dHQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile2": {
+        "data": "hwQQABAAAACIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAREREREREREREREREREREREREREREREREREREREREREREREREREREREREUERERERERQRQRERFEERFEFBEREUQREURERERERBERREREREREEREREREREUQRERERERERRBEREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAREREREREREREREREREREREREREREREREREUERERERERERRBEREUQREUFEERFBRBERQRQREUREERFBFBFBREQREUEUEUQURBERQURBRBFEERFBREREEUQRERFERBQRRBEREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile3"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERFBFBERQRQREUQUERFBRBFBRBFBFBFEFEEUEUEUEUEUQRQRQRQRQRRBFBFBFBFBFEFEEUREEUQUEURERERERBERQUQUQUQUEREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile4"
+    },
+    "tile7": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERREQREREREUFERBERERERRBREEREREUFEEUQRERERRBQRRBERERFEERFEEREREURERERERBERREREREREERERERFEEREREREREUQREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile5"
+    },
+    "tile8": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERFBREREERFEEUFEREQREUQRQRQRRBERRBFBFBFEERFEEUEUEUQREUQRQRQRRBERRBFBFBFEFEFEEUEUEUFERBQRQRQREUREEREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile6"
+    },
+    "tile9": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERERRERERBQREUFERERERBERRBREFBFEFEFEEUQREUEUQRQRRBERQRRBFBFEERFBFEEUEUQUEUQUQRQRQURERBERERERREQUEREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile7"
+    },
+    "tile10": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERFBFBEREREREUEUEREREUEUQRQRERERRBRBFBEREUFEEUEUERERRBQRQRQREUFEERFBFBERRBQREUEUEUFEERERQRQRRBQRERFBREREEREREUFERBQREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile8"
+    },
+    "tile11": {
+        "data": "hwQQABAAAAAREREREREREREREREREREREREREUFERBERERERREREFBFBREFEEUFEEURERBQREURBREFEFBERREEUEUQUERFEQRQRRBQREURBREFEFBERRBFEREQUERFEEUFEQUQRQUQRERERREREFBERERFBREQREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile9"
+    },
+    "tile15": {
+        "data": "hwQQABAAAAC8Hd0dn5mZmbwd3R0fEd0dvB3dHY+IiIi8Hd0d3x3dHbwd3R3fHd0dvB0REd8dERG8Hd0d3x3dHbwd3R3fHd0dvB3dHd8d3R28Hd0dHxHdHbwd3R3fHd0dvB3dHd8d3R28Hd0d3x3dHbwdERGPiIiIvB3dHd8d3R28Hd0dn5mZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile13"
+    },
     "level1": {
         "id": "level1",
         "mimeType": "application/mkcd-tilemap",
@@ -16,14 +88,20 @@
     "level2": {
         "id": "level2",
         "mimeType": "application/mkcd-tilemap",
-        "data": "MTAwNDAwMDQwMDAzMDIwMjAyMDIwNTA1MDIwNDA1MDUwMjAxMDIwMjAxMjIyMjAyMjAwMjIwMjIyMg==",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjAwMDAwMDAxMDAwMDAwMDIwMTAwMDAwMDAyMDEwMTAwMDAwMDAwMDEwMDAwMDAwMDAxMDAwMDAwMDAwMTAxMDAwMDA5MDAwMTAwMDcwMDAwMDEwMDA4MDAwMDAxMDEwMDAwMDAwMDAxMDAwMDAwMDAwMTAwMDAwMDAwMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMDAwMDAwMTAwMDMwMDAwMDEwMDAwMDAwMDAxMDEwMDAwMDAwMDAxMDAwMDAwMDAwMTAwMGEwMDAwMDEwMTAwMDQwMDAwMDEwMDAxMDAwMDAxMDAwMDAwMDAwMTAxMDAwMDAwMDAwMTAwMDAwMDAwMDEwMDAwMDAwMjAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAwMDAwMDAwMDEwMDAwMDAwMDAxMDAwMDAwMDAwMTAxMDAwNTAwMDAwMTAwMDAwNjAwMDEwMDAwMGIwMDAxMDEwMDAwMDAwMDAxMDAwMDAwMDAwMTAwMDAwMDAwMDEwMTAyMDAwMDAwMDEwMjAwMDAwMDAxMDAwMDAwMDIwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjAyMDAyMDAwMDAwMjAwMjAwMjAwMjAwMDAwMDIwMDIwMDIyMDIwMjAwMDAyMDIyMDAyMDAyMDAwMDAwMjAwMjAyMjIyMjIyMjIyMjIyMjIyMDIwMDIwMDAwMDAyMDAyMDAyMDAyMDAwMDAwMjAyMjAwMjAyMjAyMDAwMDIwMDIwMDIwMDIwMDAwMDAyMDAyMDIyMjIyMjIyMjIyMjIyMjIwMjAwMjAwMDAwMDIwMDIwMDIwMjIwMDAwMjAyMjAyMDAyMDAyMDAwMDAwMjAwMjAwMjAwMjAwMDAwMDIwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
         "tileset": [
             "myTiles.transparency16",
-            "sprites.dungeon.purpleOuterNorthEast",
-            "sprites.dungeon.purpleOuterNorth1",
-            "sprites.dungeon.purpleOuterNorthWest",
-            "sprites.dungeon.doorOpenNorth",
-            "sprites.dungeon.darkGroundCenter"
+            "myTiles.tile1",
+            "myTiles.tile2",
+            "myTiles.tile3",
+            "myTiles.tile4",
+            "myTiles.tile5",
+            "myTiles.tile6",
+            "myTiles.tile7",
+            "myTiles.tile8",
+            "myTiles.tile11",
+            "myTiles.tile9",
+            "myTiles.tile10"
         ],
         "displayName": "level2"
     },
